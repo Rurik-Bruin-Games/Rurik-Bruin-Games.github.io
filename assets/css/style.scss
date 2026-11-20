@@ -44,3 +44,41 @@ img[alt="Rurik Bruin Games"] {
   image-rendering: crisp-edges;
 }
 
+.studio-tagline {
+  text-align: center;
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: rgb(255, 255, 255) !important;
+  max-width: 540px;
+  margin: 0 auto 1rem auto;
+}
+
+.studio-nav {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.studio-nav a {
+  color: rgb(184, 199, 111) !important; /* C64 Yellow $07 */
+  text-decoration: none;
+  margin: 0 0.4rem;
+}
+
+.studio-nav a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background: rgba(184, 199, 111, 0.35);
+  margin: 2rem 0;
+}
+
+.studio-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
