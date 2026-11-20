@@ -45,10 +45,10 @@ Have questions, feedback, or want to swap dev notes?
 
 * **Code & Tools:** [GitHub (Rurik-Bruin-Games)](https://github.com/Rurik-Bruin-Games)
 * **Direct Email:** [contact@rurikbruin.com](mailto:contact@rurikbruin.com)
-* **Playable Builds:** [itch.io](https://rurikbruin.itch.io)
+* **Games & Demos:** [rurikbruin.itch.io](https://rurikbruin.itch.io)
 {% comment %}
-* **Devlog Videos:** [YouTube](https://youtube.com)
-* **Updates:** [Bluesky](https://bsky.app) | [X](https://x.com)
+* **Devlog Videos:** [YouTube (@RurikBruin)](https://youtube.com)
+* **Social Updates:** [Bluesky (@rurikbruin.bsky.social)](https://bsky.app) | [X (@RurikBruin)](https://x.com)
 {% endcomment %}
 
 ---
