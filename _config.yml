@@ -1,5 +1,29 @@
 theme: jekyll-theme-midnight
 title: Rurik Bruin Games
-description: Retro-inspired indie games built with Commodore 64 spirit.
+description: Retro-inspired indie game studio based in Canada, crafting games with Commodore 64 spirit.
 url: https://rurikbruin.com
-image: /assets/images/banner.png
+logo: /assets/images/avatar.png
+
+author:
+  name: Roderick Bernard Greening
+  # twitter: RurikBruin
+
+twitter:
+  # username: RurikBruin
+  card: summary_large_image
+
+social:
+  name: Rurik Bruin Games
+  links:
+    - https://github.com
+    # - https://itch.io
+    # - https://youtube.com
+    # - https://bsky.app
+    # - https://x.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/banner.png
+

@@ -12,7 +12,7 @@ title: Home
 ## 🎮 Featured Games & Prototypes
 
 * **Debut Title (In Development)** — Follow progress on the [Devlogs](/devlogs) page.
-* **Playable Prototypes** — Browse released builds and experiments on the [Games](/games) page or [rurikbruin.itch.io](https://itch.io).
+* **Playable Prototypes** — Browse released builds and experiments on the [Games](/games) page.
 
 ---
 
@@ -41,11 +41,15 @@ Based in Canada, this independent workshop is run by solo developer **Roderick B
 
 ## 🕹️ Connect & Follow
 
+Have questions, feedback, or want to swap dev notes?
+
+* **Code & Tools:** [GitHub (Rurik-Bruin-Games)](https://github.com/Rurik-Bruin-Games)
+* **Direct Email:** [contact@rurikbruin.com](mailto:contact@rurikbruin.com)
+<!--
 * **Playable Builds:** [itch.io](https://itch.io)
 * **Devlog Videos:** [YouTube](https://youtube.com)
 * **Updates:** [Bluesky](https://bsky.app) | [X](https://x.com)
-* **Code & Tools:** [GitHub](https://github.com)
-* **Direct Email:** [contact@rurikbruin.com](mailto:contact@rurikbruin.com)
+-->
 
 ---
 
