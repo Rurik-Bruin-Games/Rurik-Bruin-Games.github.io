@@ -1,37 +1,35 @@
-![Rurik Bruin Games](./assets/images/logo-transparent.png)
+---
+layout: default
+title: Home
+---
+
+{% include header.html %}
 
 <p class="studio-tagline">Crafting retro-inspired games, documenting the journey, and sharing what I learn along the way.</p>
 
-<nav class="studio-nav">
-  <a href="#games">Games</a> • 
-  <a href="#devlogs">Devlogs & Articles</a> • 
-  <a href="#about">About</a> • 
-  <a href="#connect">Connect</a>
-</nav>
+---
+
+## 🎮 Featured Games & Prototypes
+
+* **Debut Title (In Development)** — Follow progress on the [Devlogs](/devlogs) page.
+* **Playable Prototypes** — Browse released builds and experiments on the [Games](/games) page or [rurikbruin.itch.io](https://itch.io).
 
 ---
 
-## 🎮 Games & Projects {#games}
-
-* **Project Bear (Working Title)** — *In Active Development.* My debut solo indie title built from scratch, blending classic 8-bit sensibility with modern game design.
-* **Prototypes & Game Jams** — Early playable builds and mechanics experiments published over on [rurikbruin.itch.io](https://itch.io).
-
----
-
-## 📝 Latest Devlogs & Articles {#devlogs}
+## 📝 Recent Updates
 
 {% if site.posts.size > 0 %}
-  {% for post in site.posts limit:5 %}
-* **[{{ post.title }}]({{ post.url }})** — *{{ post.date | date: "%B %-d, %Y" }}*  
-  {{ post.excerpt | strip_html | truncatewords: 25 }}
+  {% for post in site.posts limit:3 %}
+* **[{{ post.title }}]({{ post.url }})** *(in {{ post.categories | join: ", " | capitalize }} — {{ post.date | date: "%B %-d, %Y" }})*  
+  {{ post.excerpt | strip_html | truncatewords: 22 }}
   {% endfor %}
 {% else %}
-* **First Devlog Coming Soon** — Follow along for behind-the-scenes breakdowns on pixel art, game mechanics, code snippets, and solo dev lessons from the trenches.
+* **First Entries Coming Soon** — Check back soon for [Devlogs](/devlogs) on my debut title and [General](/general) coding & pixel art tutorials.
 {% endif %}
 
 ---
 
-## 🛡️ Behind the Studio {#about}
+## 🛡️ Behind the Studio
 
 Based in Canada, this independent workshop is run by solo developer **Roderick Bernard Greening**. Every part of the studio's identity ties back to personal heritage and the craft of game making:
 
@@ -41,9 +39,7 @@ Based in Canada, this independent workshop is run by solo developer **Roderick B
 
 ---
 
-## 🕹️ Connect & Follow {#connect}
-
-Want to playtest early builds, watch devlog clips, or swap notes?
+## 🕹️ Connect & Follow
 
 * **Playable Builds:** [itch.io](https://itch.io)
 * **Devlog Videos:** [YouTube](https://youtube.com)
