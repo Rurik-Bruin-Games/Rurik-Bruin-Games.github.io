@@ -2,22 +2,27 @@
 ---
 @import "{{ site.theme }}";
 
-body {
-  background-color: rgb(53, 40, 121); /* C64 Blue $06 */
-  color: rgb(149, 149, 149); /* C64 Light Grey $0F */
+html, body {
+  background: rgb(53, 40, 121) !important; /* C64 Blue $06 */
+  background-color: rgb(53, 40, 121) !important;
+  color: rgb(149, 149, 149) !important; /* C64 Light Grey $0F */
 }
 
 #header {
-  background: rgb(35, 26, 82);
-  border-bottom: 3px solid rgb(184, 199, 111); /* C64 Yellow $07 */
+  background: rgb(35, 26, 82) !important;
+  border-bottom: 3px solid rgb(184, 199, 111) !important; /* C64 Yellow $07 */
+}
+
+.wrapper, section {
+  background: transparent !important;
 }
 
 h1, h2, h3, strong {
-  color: rgb(184, 199, 111); /* C64 Yellow $07 */
+  color: rgb(184, 199, 111) !important; /* C64 Yellow $07 */
 }
 
 a {
-  color: rgb(154, 103, 89); /* C64 Light Red $0A */
+  color: rgb(154, 103, 89) !important; /* C64 Light Red $0A */
 }
 
 img {
