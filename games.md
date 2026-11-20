@@ -16,7 +16,7 @@ Published titles, playable game jam entries, and prototypes from the studio.
 * *No full commercial releases yet—currently building my debut title! Follow the journey on the [Devlogs](/devlogs) page.*
 
 ## Prototypes & Game Jams
-* **itch.io Workshop** — Play early builds and mechanics tests over at [rurikbruin.itch.io](https://rurikbruin.itch.io).
+* **itch.io Workshop** — Play early builds and mechanics tests over at [itch.io](https://rurikbruin.itch.io).
 
 ---
 
