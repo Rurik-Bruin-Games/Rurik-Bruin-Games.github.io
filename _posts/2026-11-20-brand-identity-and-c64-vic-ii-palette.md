@@ -41,15 +41,14 @@ Our site styling, logos, and banners are built around the classic **16-color Com
 Need official **Rurik Bruin Games** artwork for press coverage, YouTube thumbnails, or itch.io features? Feel free to use the assets below—just keep the proportions intact and avoid recoloring outside the 16-color VIC-II palette.
 
 #### Primary Studio Logo
-![Rurik Bruin Games Transparent Logo](/assets/images/logo-transparent.png)
 * **Transparent PNG:** [Download `logo-transparent.png`](/assets/images/logo-transparent.png)
 
 #### Icons & Favicons
-* **Studio Icon / Avatar:** [Download `icon.png`](/assets/images/icon.png) *(update filename to match `/assets/images/`)*
-* **Favicon:** [Download `favicon.ico`](/assets/images/favicon.ico) *(update filename to match `/assets/images/`)*
+* **Studio Icon / Avatar:** [Download `avatar.png`](/assets/images/avatar.png)
+* **Favicon:** [Download `favicon.png`](/assets/images/favicon.png)
 
 #### Banners (itch.io, GitHub & Social)
-* **Wide Studio Banner:** [Download `banner.png`](/assets/images/banner.png) *(update filename to match `/assets/images/`)*
+* **Wide Studio Banner:** [Download `banner.png`](/assets/images/banner.png)
 
 ---
 
