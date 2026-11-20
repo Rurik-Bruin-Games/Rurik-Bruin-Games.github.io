@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Taming SID Wizard
 category: general
 ---
