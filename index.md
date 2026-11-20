@@ -31,11 +31,10 @@ title: Home
 
 ## 🛡️ Behind the Studio
 
-Based in Canada, this independent workshop is run by solo developer **Roderick Bernard Greening**. Every part of the studio's identity ties back to personal heritage and the craft of game making:
+Based in Canada, **Rurik Bruin Games** is an independent solo workshop run by **Roderick Bernard Greening**, crafting native Commodore 64 games framed in an authentic 16-color VIC-II palette.
 
-* **Rurik (*Roderick*):** Drawn from the Old Norse *Hrœrekr* and East Slavic *Rurik*—the historical roots of *Roderick*, meaning *"famous ruler."*
-* **Bruin (*Bernard*):** Inspired by the Old Germanic *Berinhard* ("brave as a bear") and the classic folkloric name for a brown bear—representing steady endurance and craftsmanship.
-* **The R.B.G. & C64 Connection:** The initials **R.B.G.** bridge **R**oderick **B**ernard **G**reening with the **R**ed, **B**lue, and **G**reen pixels of classic computing—framed in an authentic 16-color Commodore 64 VIC-II palette honoring the 8-bit roots that inspired the studio.
+* [Read the full story behind the studio name & R.B.G. heritage →](/about)
+* [Explore our C64 hardware, Vision BASIC & SID-Wizard setup →](/tools)
 
 ---
 
