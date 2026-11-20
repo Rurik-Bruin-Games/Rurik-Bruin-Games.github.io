@@ -30,3 +30,13 @@ img {
   image-rendering: crisp-edges;
 }
 
+#header {
+  display: none !important; /* Hides the unused GitHub repo bar at the top */
+}
+
+section img:first-of-type {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  max-width: 360px; /* Keeps the pixel logo crisp and well-proportioned */
+}
+
