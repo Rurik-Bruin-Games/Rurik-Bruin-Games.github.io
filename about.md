@@ -17,6 +17,7 @@ Every part of the studio's name and visual identity translates founder **Roderic
 * **Rurik (*Roderick*):** Drawn from the Old Norse *Hrœrekr* and East Slavic *Rurik*—the historical roots of *Roderick*, meaning *"famous ruler"* or *"rich in glory."*
 * **Bruin (*Bernard*):** Inspired by the Old Germanic *Berinhard* ("brave as a bear") and the classic folkloric name for a brown bear—representing strength, endurance, and steady craftsmanship.
 * **The R.B.G. & C64 Connection:** The initials **R.B.G.** bridge **R**oderick **B**ernard **G**reening with the **R**ed, **B**lue, and **G**reen pixels of classic computing—framed in an authentic 16-color Commodore 64 VIC-II palette honoring the 8-bit roots that inspired the studio.
+* [View our 16-color C64 VIC-II palette, logos & press banners →](/general/2026/11/20/brand-identity-and-c64-vic-ii-palette/)
 
 ### How We Build
 
