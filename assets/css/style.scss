@@ -1,0 +1,27 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: rgb(53, 40, 121); /* C64 Blue $06 */
+  color: rgb(149, 149, 149); /* C64 Light Grey $0F */
+}
+
+#header {
+  background: rgb(35, 26, 82);
+  border-bottom: 3px solid rgb(184, 199, 111); /* C64 Yellow $07 */
+}
+
+h1, h2, h3, strong {
+  color: rgb(184, 199, 111); /* C64 Yellow $07 */
+}
+
+a {
+  color: rgb(154, 103, 89); /* C64 Light Red $0A */
+}
+
+img {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+

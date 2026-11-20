@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 title: Rurik Bruin Games
-description: Independent game development studio
+description: Retro-inspired indie games built with Commodore 64 spirit.
+url: https://rurikbruin.com
+image: /assets/images/banner.png
