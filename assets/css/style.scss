@@ -98,12 +98,29 @@ hr {
   margin: 1rem auto 2rem auto;
 }
 
-.error-404 code {
-  background: rgb(35, 26, 82) !important;
-  color: rgb(184, 199, 111) !important; /* C64 Yellow $07 */
-  padding: 0.2rem 0.45rem;
-  border-radius: 3px;
-  font-size: 0.95rem;
+.c64-screen {
+  background-color: rgb(108, 94, 181); /* VIC-II Light Blue $0E (Pepto) */
+  color: rgb(255, 255, 255);
+  border: 4px solid rgb(184, 199, 111); /* VIC-II Yellow $07 */
+  border-radius: 4px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem auto;
+  max-width: 420px;
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+}
+
+.c64-cursor {
+  animation: c64-blink 1s steps(1, end) infinite;
+}
+
+@keyframes c64-blink {
+  50% { opacity: 0; }
 }
 
 .error-404 ul {
