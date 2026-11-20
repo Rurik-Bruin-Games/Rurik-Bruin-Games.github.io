@@ -1,4 +1,4 @@
-![Rurik Bruin Games](./assets/images/banner.png)
+![Rurik Bruin Games](./assets/images/logo-transparent.png)
 
 # Rurik Bruin Games
 
